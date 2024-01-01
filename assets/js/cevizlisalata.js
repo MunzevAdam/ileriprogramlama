@@ -1,10 +1,7 @@
-// script2.js
 
 document.addEventListener("DOMContentLoaded", function () {
-    // DOM yüklendiğinde çalışacak kodlar buraya gelecek
     var panelBody = document.querySelector('.panel-body');
     
-    // Resim ekleyin
     var salataImage = document.createElement('img');
     salataImage.setAttribute('src', 'assets/images/cevizli-salata.jpg');
     salataImage.setAttribute('alt', 'salata');
