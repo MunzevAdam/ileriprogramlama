@@ -6,7 +6,7 @@ function searchRecipes() {
     } else if (searchTerm === "salata") {
         window.location.href = "salatalar.html";
     } else if (searchTerm === "tiramisu") {
-        window.location.href = "tiramisu.html";
+        window.location.href = "tiramusi.html";
     } else if (searchTerm === "cevizlisalata") {
         window.location.href = "cevizlisalata.html";
     } else if (searchTerm === "çorba") {
